@@ -1,5 +1,5 @@
 - Hello My name is if.
-- I am interest in Python, C, Javascript.
+- I am interest in C, Javascript.
 - I am begginer scripter :>
 
 <!---
