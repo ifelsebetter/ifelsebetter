@@ -6,18 +6,18 @@ Hi there! I'm a passionate computer science student fueled by a love for learnin
 
 ##  Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ifelsebetter.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ifelsebetter.vercel.app/)
 
 
 ##  Skills
 
 **Programming Languages:**
 
-![My Skills](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)
+![My Skills]](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)](https://ifelsebetter.vercel.app/)
 
 **Frameworks & Libraries:**
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,tailwind&theme=dark)
+![My Skills][(https://skillicons.dev/icons?i=nodejs,react,next,tailwind&theme=dark)](https://ifelsebetter.vercel.app/)
 
 ##  ⚡️  Fun Fact
 
