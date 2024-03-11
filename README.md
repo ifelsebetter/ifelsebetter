@@ -13,11 +13,11 @@ Hi there! I'm a passionate computer science student fueled by a love for learnin
 
 **Programming Languages:**
 
-![My Skills]](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)](https://ifelsebetter.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)](https://ifelsebetter.vercel.app/)
 
 **Frameworks & Libraries:**
 
-![My Skills][(https://skillicons.dev/icons?i=nodejs,react,next,tailwind&theme=dark)](https://ifelsebetter.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,tailwind&theme=dark)](https://ifelsebetter.vercel.app/)
 
 ##  ⚡️  Fun Fact
 
