@@ -2,7 +2,7 @@
 
 Hi there! I'm a passionate computer science student fueled by a love for learning and the thrill of building cool things as a developer. 
 
-<img src="[https://cdn.nest.rip/uploads/bddeaee7-511f-4546-98d5-4612fd69ac8d.png](https://cdn.nest.rip/uploads/88a0a7e5-7e0c-4044-ac25-6feb2848ef22.png)" alt="bruh" style="border-radius: 50%; margin-bottom: 1rem;">
+<img src="https://cdn.nest.rip/uploads/88a0a7e5-7e0c-4044-ac25-6feb2848ef22.png" alt="bruh" style="border-radius: 50%; margin-bottom: 1rem;">
 
 ##  Links
 
