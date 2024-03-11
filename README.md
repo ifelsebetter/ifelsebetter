@@ -13,11 +13,11 @@ Hi there! I'm a passionate computer science student fueled by a love for learnin
 
 **Programming Languages:**
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,next&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)
 
 **Frameworks & Libraries:**
 
-![My Skills](https://skillicons.dev/icons?i=js,c,py,html,css&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,tailwind&theme=dark)
 
 ##  ⚡️  Fun Fact
 
